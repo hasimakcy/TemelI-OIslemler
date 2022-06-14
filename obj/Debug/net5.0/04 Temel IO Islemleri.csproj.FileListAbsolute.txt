@@ -1,0 +1,32 @@
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.exe
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.deps.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.runtimeconfig.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.runtimeconfig.dev.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\ref\04 Temel IO Islemleri.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.pdb
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.AssemblyInfoInputs.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.AssemblyInfo.cs
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.csproj.CoreCompileInputs.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\ref\04 Temel IO Islemleri.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.pdb
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.genruntimeconfig.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.exe
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.deps.json
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.runtimeconfig.json
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\ref\04 Temel IO Islemleri.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\bin\Debug\net5.0\04 Temel IO Islemleri.pdb
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\ref\04 Temel IO Islemleri.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.pdb
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Temel IO Islemleri\obj\Debug\net5.0\04 Temel IO Islemleri.genruntimeconfig.cache
